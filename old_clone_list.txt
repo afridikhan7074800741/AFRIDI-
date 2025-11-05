@@ -1,0 +1,4 @@
+# Example clone commands (legal open-source repos)
+git clone https://github.com/sqlmapproject/sqlmap.git
+git clone https://github.com/Tuhinshubhra/RED_HAWK.git
+git clone https://github.com/htr-tech/zphisher.git
